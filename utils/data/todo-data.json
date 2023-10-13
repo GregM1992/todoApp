@@ -1,0 +1,16 @@
+{
+  "-MiBsfuTafbEQ7eAULxV" : {
+    "type" : "errand",
+    "firebaseKey" : "-MiBsfuTafbEQ7eAULxV",
+    "task" : "get food",
+    "finished": true,
+    "uid": ""
+  },
+  "-MiBsfuTafbEQ7eAULx5" : {
+    "type" : "house",
+    "firebaseKey" : "-MiBsfuTafbEQ7eAULx5",
+    "task" : "feed animal",
+    "finished": false,
+    "uid": ""
+  }
+}
