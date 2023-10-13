@@ -1,0 +1,16 @@
+{
+  "-MiBsfuTafbEQ7eAULxd" : {
+    "type" : "errand",
+    "firebaseKey" : "-MiBsfuTafbEQ7eAULxd",
+    "task" : "go shopping",
+    "finished": true,
+    "uid": "TDIMtiBbWRYeyirrE02ene6rVOp1"
+  },
+  "-MiBsfuTafbEQ7eAULxv" : {
+    "type" : "house",
+    "firebaseKey" : "-MiBsfuTafbEQ7eAULxv",
+    "task" : "do dishes",
+    "finished": false,
+    "uid": "TDIMtiBbWRYeyirrE02ene6rVOp1"
+  }
+}
