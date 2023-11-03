@@ -54,6 +54,6 @@ const deleteTodoItem = (firebaseKey) => new Promise((resolve, reject) => {
     .catch(reject);
 });
 
-export default {
+export {
   getTodoItems, createTodoItem, updateTodoItem, deleteTodoItem,
 };
